@@ -1,1 +1,1 @@
-# Beautiful-Pairs
+# Beautiful-Pairs This C# program counts how many elements in two lists, **A** and **B**, can be paired as equal values, removing matched elements from **B** as they’re used. Then, following the problem rule, it adjusts the count by **+1** if not all pairs match or **–1** if all do, simulating one allowed change in list **B**.
